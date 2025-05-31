@@ -1,52 +1,78 @@
-# Dmoney REST API Test Automation
+# 💼 Dmoney REST API Test Automation
 
-API-based testing of the Dmoney REST API using Postman and Newman, with a focus on role-specific transactions and functional validations.
-
----
-
-## Overview
-
-This project involves automated testing of the Dmoney REST API to ensure reliability and correctness of core functionalities. It covers various user roles such as Admin, System User, Agent, Customer, and Merchant, validating their respective transaction flows and permissions.
+**API-based testing** of the **Dmoney REST API** using **Postman** and **Newman**, focusing on **role-specific transactions** and **functional validations** across multiple user types.
 
 ---
 
-## Tools and Technology
+## 🧾 Project Overview
 
-- **Postman**  
-- **Newman**  
-- **Node.js**  
-- **VSCode**
+This project involves end-to-end testing of the Dmoney REST API to validate core functionalities and ensure system reliability. It simulates real-world financial transactions and access control between:
+
+- 👨‍💼 Admin  
+- ⚙️ System User  
+- 🧍 Agent  
+- 👥 Customers  
+- 🏪 Merchant  
+
+---
+
+## 🧰 Tools & Technologies
+
+- Postman  
+- Newman  
+- Node.js  
+- Visual Studio Code (VSCode)
 
 ---
 
-### 1. Test Cases
+## ✅ Test Scenarios Covered
 
-Test cases were created for the following scenarios:
+- Admin creates: Agent, 2 Customers, and a Merchant  
+- System User deposits money to Agent  
+- Agent deposits money to a Customer  
+- Verify Agent’s balance  
+- Money transfer between Customers  
+- Customer withdraws money from Agent  
+- Check Customer’s balance and statement  
+- Customer pays Merchant  
+- Merchant checks balance  
+- Negative test cases for invalid operations and validations
 
-- Admin creates an Agent, 2 Customers, and a Merchant.
-- System deposits money to the Agent.
-- Agent deposits money to a Customer.
-- Check Agent's balance.
-- Send money between Customers.
-- Customer withdraws money to the Agent.
-- Check Customer's balance and transaction statement.
-- Customer makes a payment to a Merchant.
-- Check balances and transaction statements for Customers.
-- The Merchant checks his balance.
-- ### 2. Postman Collection
+---
 
-- Created a Postman collection for all above scenarios.  
-- Added negative test cases for validation and error handling.
+## 📂 Postman Collection
 
-> **Collection:**[Click Here to see the Postman Collection](https://blue-spaceship-82651.postman.co/workspace/First~ce11a31e-10cf-42d5-a014-041d020ca2f4/collection/37563033-491330d2-0099-413a-868a-6a2e29267637?action=share&creator=37563033)
+A well-structured Postman collection was created covering all positive and negative flows.
+
+🔗 **Collection Link:**  
+[Click Here to See the Postman Collection](https://blue-spaceship-82651.postman.co/workspace/First~ce11a31e-10cf-42d5-a014-041d020ca2f4/collection/37563033-491330d2-0099-413a-868a-6a2e29267637?action=share&creator=37563033)
+
+---
+
+## 📊 Newman Test Report
+
+All test cases were executed via Newman, and the results were captured for analysis.
+
+🖼️ **Newman Report Screenshot:**  
+![Newman Test Report](https://github.com/user-attachments/assets/6093019c-4fef-4f36-a983-686b05c3e648)
+
+---
+
+## 📌 Highlights
+
+- 🔄 Role-based transaction simulation  
+- ❌ Negative test validations  
+- ✅ Functional testing with proper assertions  
+- 📈 Automated execution using Newman  
+- 📄 Shareable documentation for reviewers  
+
+---
+
+## 👩‍💻 Tested by
+
+**Sanjida Afrin**  
+Junior QA Engineer | Passionate about API Testing and Quality Assurance  
+[GitHub Profile](https://github.com/sanjidaafrin08)
 
 
 ---
-### 3. Newman Report
-
-- Generated a report of all test cases execution using Newman.  
-- Included summary screenshots of the execution results.
-- View the Newman report screenshots below:
-  ![Newman Test Report Screenshot](![Screenshot 2025-05-28 232228](https://github.com/user-attachments/assets/6093019c-4fef-4f36-a983-686b05c3e648)
-)
-
