@@ -1,22 +1,22 @@
-# 💼 Dmoney REST API Test Automation
+# Dmoney REST API Test Automation
 
 **API-based testing** of the **Dmoney REST API** using **Postman** and **Newman**, focusing on **role-specific transactions** and **functional validations** across multiple user types.
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 This project involves end-to-end testing of the Dmoney REST API to validate core functionalities and ensure system reliability. It simulates real-world financial transactions and access control between:
 
-- 👨‍💼 Admin  
-- ⚙️ System User  
-- 🧍 Agent  
-- 👥 Customers  
-- 🏪 Merchant  
+- Admin  
+- System User  
+- Agent  
+- Customers  
+- Merchant  
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - Postman  
 - Newman  
@@ -25,7 +25,7 @@ This project involves end-to-end testing of the Dmoney REST API to validate core
 
 ---
 
-## ✅ Test Scenarios Covered
+## Test Scenarios Covered
 
 - Admin creates: Agent, 2 Customers, and a Merchant  
 - System User deposits money to Agent  
@@ -40,39 +40,39 @@ This project involves end-to-end testing of the Dmoney REST API to validate core
 
 ---
 
-## 📂 Postman Collection
+## Postman Collection
 
 A well-structured Postman collection was created covering all positive and negative flows.
 
-🔗 **Collection Link:**  
+**Collection Link:**  
 [Click Here to See the Postman Collection](https://blue-spaceship-82651.postman.co/workspace/First~ce11a31e-10cf-42d5-a014-041d020ca2f4/collection/37563033-491330d2-0099-413a-868a-6a2e29267637?action=share&creator=37563033)
 
 ---
 
-## 📊 Newman Test Report
+## Newman Test Report
 
 All test cases were executed via Newman, and the results were captured for analysis.
 
-🖼️ **Newman Report Screenshot:**  
+**Newman Report Screenshot:**  
 ![Newman Test Report](https://github.com/user-attachments/assets/6093019c-4fef-4f36-a983-686b05c3e648)
+![Newman Report 1](https://github.com/your-username/your-repo-name/blob/main/newmanreport1.png)  
+![Newman Report 2](https://github.com/your-username/your-repo-name/blob/main/newmanreport2.png)  
+![Newman Report 3](https://github.com/your-username/your-repo-name/blob/main/newmanreport3.png)
 
 ---
 
-## 📌 Highlights
+## Highlights
 
-- 🔄 Role-based transaction simulation  
-- ❌ Negative test validations  
-- ✅ Functional testing with proper assertions  
-- 📈 Automated execution using Newman  
-- 📄 Shareable documentation for reviewers  
+- Role-based transaction simulation  
+- Negative test validations  
+- Functional testing with proper assertions  
+- Automated execution using Newman  
+
 
 ---
 
-## 👩‍💻 Tested by
+## Tested by
 
 **Sanjida Afrin**  
-Junior QA Engineer | Passionate about API Testing and Quality Assurance  
+Junior QA Engineer 
 [GitHub Profile](https://github.com/sanjidaafrin08)
-
-
----
