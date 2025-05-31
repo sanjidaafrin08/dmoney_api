@@ -54,10 +54,10 @@ A well-structured Postman collection was created covering all positive and negat
 All test cases were executed via Newman, and the results were captured for analysis.
 
 **Newman Report Screenshot:**  
-![Newman Test Report](https://github.com/user-attachments/assets/6093019c-4fef-4f36-a983-686b05c3e648)
-![Newman Report 1](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport1.png?raw=true)  
-![Newman Report 2](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport2.png?raw=true)  
-![Newman Report 3](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport3.png?raw=true)
+![Newman Report 0](https://i.postimg.cc/8JDyqrtS/newmanreport0.png)  
+![Newman Report 1](https://i.postimg.cc/3W8S1mkj/newmanreport1.png)  
+![Newman Report 2](https://i.postimg.cc/dZV50PbN/newmanreport2.png)  
+![Newman Report 3](https://i.postimg.cc/Q9b6sxyW/newmanreport3.png)
 
 ---
 
