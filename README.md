@@ -54,11 +54,10 @@ A well-structured Postman collection was created covering all positive and negat
 All test cases were executed via Newman, and the results were captured for analysis.
 
 **Newman Report Screenshot:**  
-![Newman Report 0](https://i.postimg.cc/8JDyqrtS/newmanreport0.png)  
-![Newman Report 1](https://i.postimg.cc/3W8S1mkj/newmanreport1.png)  
-![Newman Report 2](https://i.postimg.cc/dZV50PbN/newmanreport2.png)  
-![Newman Report 3](https://i.postimg.cc/Q9b6sxyW/newmanreport3.png)
-
+<img src="https://i.postimg.cc/8JDyqrtS/newmanreport0.png" alt="Newman Report 0" width="800"/><br>
+<img src="https://i.postimg.cc/3W8S1mkj/newmanreport1.png" alt="Newman Report 1" width="800"/><br>
+<img src="https://i.postimg.cc/dZV50PbN/newmanreport2.png" alt="Newman Report 2" width="800"/><br>
+<img src="https://i.postimg.cc/Q9b6sxyW/newmanreport3.png" alt="Newman Report 3" width="800"/>
 ---
 
 ## Highlights
