@@ -55,9 +55,9 @@ All test cases were executed via Newman, and the results were captured for analy
 
 **Newman Report Screenshot:**  
 ![Newman Test Report](https://github.com/user-attachments/assets/6093019c-4fef-4f36-a983-686b05c3e648)
-![Newman Report 1](https://github.com/your-username/your-repo-name/blob/main/newmanreport1.png)  
-![Newman Report 2](https://github.com/your-username/your-repo-name/blob/main/newmanreport2.png)  
-![Newman Report 3](https://github.com/your-username/your-repo-name/blob/main/newmanreport3.png)
+![Newman Report 1](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport1.png?raw=true)  
+![Newman Report 2](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport2.png?raw=true)  
+![Newman Report 3](https://github.com/sanjidaafrin08/dmoney_api/blob/main/newmanreport3.png?raw=true)
 
 ---
 
