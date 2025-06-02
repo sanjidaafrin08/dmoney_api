@@ -54,11 +54,11 @@ A well-structured Postman collection was created covering all positive and negat
 All test cases were executed via Newman, and the results were captured for analysis.
 
 **Newman Report Screenshot:**  
-- [Newman Report Screenshot 1](https://drive.google.com/file/d/1LUl16rgeeS-fsrOgiWRMDh1L40JdNwQI/view?usp=sharing)
-- [Newman Report Screenshot 2](https://drive.google.com/file/d/190i1Ano9tri8KJyc3BRTlt03tiLIexFw/view?usp=sharing)
-- [Newman Report Screenshot 3](https://drive.google.com/file/d/1g5RXsgFU8BvC4DRngISTPpiHyGeWjQVQ/view?usp=sharing)
-- [Newman Report Screenshot 4](https://drive.google.com/file/d/1-s1l382we9yyxWJ0Q9G88X_J-86Ik_b7/view?usp=sharing)
-- [Newman Report Screenshot 5](https://drive.google.com/file/d/1y4PR4Q69CcPdeKDfFlJAJs0Pwz5rLvGy/view?usp=sharing)
+![Newman Report Screenshot 1](https://drive.google.com/uc?export=view&id=1LUl16rgeeS-fsrOgiWRMDh1L40JdNwQI)
+![Newman Report Screenshot 2](https://drive.google.com/uc?export=view&id=190i1Ano9tri8KJyc3BRTlt03tiLIexFw)
+![Newman Report Screenshot 3](https://drive.google.com/uc?export=view&id=1g5RXsgFU8BvC4DRngISTPpiHyGeWjQVQ)
+![Newman Report Screenshot 4](https://drive.google.com/uc?export=view&id=1-s1l382we9yyxWJ0Q9G88X_J-86Ik_b7)
+![Newman Report Screenshot 5](https://drive.google.com/uc?export=view&id=1y4PR4Q69CcPdeKDfFlJAJs0Pwz5rLvGy)
 ---
 
 ## Highlights
